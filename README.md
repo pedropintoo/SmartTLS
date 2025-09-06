@@ -1,6 +1,8 @@
 # SmartTLS
 
 ![Award](award.png)
+<img width="1920" height="1080" alt="Screenshot from 2025-09-06 13-04-15" src="https://github.com/user-attachments/assets/f338f391-b963-4427-89e1-aa4b2ca3d570" />
+<img width="1920" height="1080" alt="Screenshot from 2025-09-06 13-01-55" src="https://github.com/user-attachments/assets/65a2851d-427d-4806-8038-7539a283daa2" />
 
 ## 1. Setup
 
